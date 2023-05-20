@@ -1,4 +1,4 @@
-# cokkiecutter-ml-fastapi
+# cookiecutter-ml-fastapi
 
 Basic project structure for deploying ML models with FastAPI.
 ---
