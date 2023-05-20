@@ -1,0 +1,23 @@
+
+[project]
+name = "mlops"
+version = ""
+description = ""
+authors = [
+    {name = "Julio Oliveira", email = ""},
+]
+dependencies = [
+    "fastapi==0.95.*",
+    "uvicorn==0.22.*",
+    "scikit-learn==1.2.*",
+    "pandas==2.0.*",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+[tool.pdm.dev-dependencies]
+train = [
+    "typer[all]==0.9.*",
+]
+test = [
+    "pytest==7.3.*",
+]
