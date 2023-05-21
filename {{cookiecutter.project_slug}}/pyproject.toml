@@ -1,7 +1,7 @@
 
 [project]
 name = "mlops"
-version = 0.0.1
+version = "0.0.1"
 description = ""
 authors = [
     {name = "Julio Oliveira", email = ""},
