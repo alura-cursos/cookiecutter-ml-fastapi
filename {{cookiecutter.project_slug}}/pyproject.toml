@@ -4,7 +4,7 @@ name = "mlops"
 version = "0.0.1"
 description = ""
 authors = [
-    {name = "Julio Oliveira", email = ""},
+    {name = "Julio Oliveira", email = "juliooliveira@hey.com"},
 ]
 dependencies = [
     "fastapi==0.95.*",
